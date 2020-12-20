@@ -1,0 +1,26 @@
+const MenuTitles = {
+  mastermenu: 'Master Menu',
+  definedlob: 'Defined LOB',
+  defineaccess: 'Define Access',
+  sourcedef: 'Source Definition',
+  onboarding: 'Onboarding Bootcamp',
+  trainingdoc: 'Training Document',
+  readyrockners: 'Ready Reckoners',
+  features: 'Features',
+  funcFeature: 'Functional Feature',
+  covLibrary: 'Coverage Library',
+  governance: 'Governance',
+  rchecklist: 'Requirement Checklist',
+  processflow: 'Process Flows',
+  rating: 'Rating',
+  forms: 'Forms',
+  underwriting: 'Underwriting',
+  transact: 'TransACT',
+  integration: 'Integrations',
+  reporting: 'Reporting',
+  agile: 'Agile',
+  pl01: 'PL101',
+  searchuser: 'Search User',
+  oppurtunity: 'Oppurtunity'
+}
+export default MenuTitles

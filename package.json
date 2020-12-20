@@ -1,0 +1,54 @@
+{
+  "name": "requirementportal",
+  "version": "1.0.0",
+  "description": "My geometric Nuxt.js project",
+  "author": "Chandra Shekhar Rajput",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "test": "ava"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/vue-fontawesome": "^0.1.9",
+    "@nuxtjs/axios": "^5.9.5",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.4.2",
+    "nuxt": "^2.0.0",
+    "vue": "^2.6.11",
+    "vue-doc-preview": "^0.3.2",
+    "vue-form-wizard": "^0.8.4",
+    "vue-multiselect": "^2.1.6",
+    "vue-pdf": "^4.0.8",
+    "vue-perfect-scrollbar": "^0.2.1",
+    "vue-sidebar-menu": "^4.5.2",
+    "vue-stepper-component": "^1.0.0",
+    "vuelidate": "^0.7.5",
+    "xlsx": "^0.15.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^1.0.1",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "@vue/test-utils": "^1.0.0-beta.31",
+    "ava": "^3.1.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^24.1.0",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "jest": "^24.1.0",
+    "jsdom": "^16.0.1",
+    "pe7-icon": "^1.0.4",
+    "vue-jest": "^4.0.0-0",
+    "webpack": "^4.41.6"
+  },
+  "ava": {
+    "files": [
+      "test/**/*"
+    ]
+  }
+}

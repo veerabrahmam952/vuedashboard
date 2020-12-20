@@ -1,0 +1,100 @@
+
+// BOOTSTRAP 4 VARIABLES
+
+@import "./components/bootstrap4/_functions.scss";
+@import "./components/bootstrap4/_variables.scss";
+@import "./components/bootstrap4/_mixins.scss";
+
+// ArchitectUI Themes Variables
+
+@import "./themes/_layout-variables.scss";
+
+// BOOTSTRAP 4 IMPORTS
+
+@import "./components/bootstrap4/_root.scss";
+@import "./components/bootstrap4/_reboot.scss";
+@import "./components/bootstrap4/_type.scss";
+@import "./components/bootstrap4/_images.scss";
+@import "./components/bootstrap4/_code.scss";
+@import "./components/bootstrap4/_grid.scss";
+@import "./components/bootstrap4/_tables.scss";
+@import "./components/bootstrap4/_forms.scss";
+@import "./components/bootstrap4/_buttons.scss";
+@import "./components/bootstrap4/_transitions.scss";
+@import "./components/bootstrap4/_dropdown.scss";
+@import "./components/bootstrap4/_button-group.scss";
+@import "./components/bootstrap4/_input-group.scss";
+@import "./components/bootstrap4/_custom-forms.scss";
+@import "./components/bootstrap4/_nav.scss";
+@import "./components/bootstrap4/_navbar.scss";
+@import "./components/bootstrap4/_card.scss";
+@import "./components/bootstrap4/_breadcrumb.scss";
+@import "./components/bootstrap4/_pagination.scss";
+@import "./components/bootstrap4/_badge.scss";
+@import "./components/bootstrap4/_jumbotron.scss";
+@import "./components/bootstrap4/_alert.scss";
+@import "./components/bootstrap4/_progress.scss";
+@import "./components/bootstrap4/_media.scss";
+@import "./components/bootstrap4/_list-group.scss";
+@import "./components/bootstrap4/_close.scss";
+@import "./components/bootstrap4/_toasts.scss";
+@import "./components/bootstrap4/_modal.scss";
+@import "./components/bootstrap4/_tooltip.scss";
+@import "./components/bootstrap4/_popover.scss";
+@import "./components/bootstrap4/_carousel.scss";
+@import "./components/bootstrap4/_spinners.scss";
+@import "./components/bootstrap4/_utilities.scss";
+@import "./components/bootstrap4/_print.scss";
+@import "./components/bootstrap4/_custome.scss";
+@import "./components/vue-multiselect/_vue-multiselect.scss";
+
+// LAYOUT
+
+@import "./layout/_layout.scss";
+
+// UTILS
+
+// @import "utils/helpers";
+// @import "utils/backgrounds";
+// @import "utils/animate";
+// @import "utils/comps-animations";
+
+// ELEMENTS
+
+@import "./elements/_buttons.scss";
+@import "./elements/_dropdown.scss";
+@import "./elements/_badges.scss";
+@import "./elements/_accordions.scss";
+@import "./elements/_modals.scss";
+@import "./elements/_timeline.scss";
+@import "./elements/_popovers-tooltips.scss";
+
+// DASHBOARD BOXES
+
+@import "./widgets/chart-boxes/_chart-boxes.scss";
+@import "./widgets/content-boxes/_content-boxes";
+
+// PAGES
+@import "./pages/_userpages.scss";
+
+// COMPONENTS
+
+// Perfect Scrollbar
+
+@import "./components/perfect-scrollbar/_perfect-scrollbar.scss";
+
+// Hamburger button
+
+@import "./components/hamburgers/hamburgers.scss";
+
+// Icons
+
+@import "./components/icons/_p7icons.scss";
+
+// Responsive
+
+@import "./layout/responsive/_responsive-base.scss";
+
+// DEMO
+
+@import "./demo-ui/_demo.scss";
