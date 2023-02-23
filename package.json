@@ -30,7 +30,7 @@
     "vue-sidebar-menu": "^4.5.2",
     "vue-stepper-component": "^1.0.0",
     "vuelidate": "^0.7.5",
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^1.0.1",
